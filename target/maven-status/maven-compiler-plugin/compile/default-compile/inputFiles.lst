@@ -1,0 +1,14 @@
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/dataaccess/VisitRegistrationRepository.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/dataaccess/entities/VisitRegistration.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/SpringBootCoronaRestApiApplication.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/dataaccess/entities/Customer.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/rest/dto/CustomerDTO.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/rest/RestaurantController.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/rest/CustomerController.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/service/RestaurantService.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/rest/dto/RestaurantDTO.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/dataaccess/RestaurantRepository.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/service/CustomerService.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/service/VisitRegistrationService.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/dataaccess/entities/Restaurant.java
+/Users/bogusbogust/Work/Hicham/Java/SpringProjecten/spring-boot-corona-rest-api/spring-boot-corona-rest-api/src/main/java/com/chafikhicham/dataaccess/CustomerRepository.java
